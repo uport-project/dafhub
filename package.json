@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@walletconnect/browser": "^1.0.0-beta.47",
-    "apollo-server-micro": "^2.11.0",
+    "apollo-server-micro": "^2.14.2",
     "body-parser": "^1.19.0",
     "cross-env": "^7.0.2",
     "daf-core": "^7.0.0-beta.29",
